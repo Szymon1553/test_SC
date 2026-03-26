@@ -1,3 +1,3 @@
 # test_SC
 
-to jest wpis testowy, dodano poprawkę
+Projekt poświęcony testowaniu technologii gitworkflow w budowie kodu. 
